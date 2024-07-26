@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      username: jangyasenisahoo17
+      password: 3UHIUP9U73BizUR2
+      host: localhost
+      port: 27017
+      database: chat_app
+      authentication-database: admin
+      uri: mongodb://jangyasenisahoo17:3UHIUP9U73BizUR2@localhost:27017/chat_app?authSource=admin
+server:
+  port: 8088
